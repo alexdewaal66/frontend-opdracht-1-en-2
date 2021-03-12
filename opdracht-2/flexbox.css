@@ -14,3 +14,21 @@
     justify-content: space-between;
 }
 
+.three {
+    /*border: 1px solid coral;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.three ul {
+    border: 1px dashed lightcoral;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.three li {
+    list-style: none;
+}
