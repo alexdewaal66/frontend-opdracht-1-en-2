@@ -54,3 +54,16 @@
 }
 
 /* opdracht 2.5 */
+
+.five {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.five article {
+    box-sizing: border-box;
+    flex-basis: 380px;
+    flex-grow: 1;
+}
