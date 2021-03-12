@@ -15,7 +15,6 @@
 }
 
 .three {
-    border: 1px solid coral;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -23,7 +22,6 @@
 }
 
 .three ul {
-    border: 1px solid blue;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -33,7 +31,6 @@
 .three div {
     display: flex;
     justify-content: flex-end;
-    border: 1px solid green;
     flex-grow: 5;
 }
 
